@@ -1,0 +1,111 @@
+a:hover
+{
+	color: red;
+}
+
+a:visited
+{
+	color: darkbluek;
+}
+
+p
+{
+	font-size: 1.3em;
+}
+ul, li
+{
+	font-size: 1.1em;
+}
+
+body
+{
+	background-color: skyblue;
+}
+
+.figure2
+{
+	text-align: left;
+}
+
+
+h1, h2, h3, h4, h5, h6 /* tout les titre en gras */
+{
+	font-weight : bold;
+}
+
+h1 /* Titre de chaque début de page */
+{
+	color: darkred;
+}
+
+h2 /* sous-titre, information importante */
+{
+	color: red;
+}
+
+.gras
+{
+	font-weight: bold;
+}
+
+strong /* tout les caractère comprenant strong seront en gras */
+{
+	font-weight: bold;
+}
+
+em /* tout les caractère comprenant em seront en italic */
+{
+	font-style: italic;
+}
+
+p, ul, li, div, h1, h2, h3, h4, h5, h6 /* le style d'écriture sera en géorgia sinon en arial, sinon etc... */
+{
+	font-family: Georgia, Arial, "Arial Black", Verdana, "Comic sans MS", "courier new", "Times New Roman", "Trebuchet MS", impact, "sans-serif"
+}
+
+p, ul, li
+{
+	text-align: justify;
+}
+h1
+{
+	text-align: center;
+}
+.milieu
+{
+	float: left;
+}
+
+.droite
+{
+	float: center;
+}
+
+.autreparagraphe
+{
+	clear: left;
+}
+
+.flottant
+{
+	float: left;
+}
+
+.flottant2
+{
+	float: right;
+}
+
+
+
+/* //////////////////Accueil JDR ONE PIEC ////////// PAGE 2 .autreparagraphe2
+{
+	clear: right;
+}///////////*/ 
+
+.Bienvenue_aventure
+{
+	font-weight: bold;
+	font-size: 1.4em;
+	text-align: justify;
+}
